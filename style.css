@@ -194,5 +194,9 @@ body {
         grid-template-columns: 1fr;
         width: 100%;
     }
+    
+    .results {
+        margin-top: 1em;
+    }
 
 }
